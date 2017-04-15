@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="tableLayoutClor">#c8c8c9</color>
+    <color name="selectedTextColor">#e66d6d</color>
+    <color name="tabTextColor">#02f2ad</color>
+
+    <!--listview sensor-->
+    <color name="pressed">#73FFBD</color>
+    <color name="selected">#6FF5FB</color>
+    <color name="notSelected">#f6f7f7</color>
+    <color name="line">#8da4a2</color>
+
+</resources>

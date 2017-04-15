@@ -1,0 +1,4 @@
+<resources>
+<dimen name="weight_item_sensor_infor">1.25sp</dimen>
+<dimen name="weight_fragment_sensor_infor">1.25sp</dimen>
+</resources>

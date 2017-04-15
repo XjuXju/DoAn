@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DoanTN</string>
+    <string name="setting">action_settings</string>
+    <string name="android">Sensor</string>
+    <string name="ios">Map</string>
+    <string name="php">Option</string>
+    
+    
+    <!--sensor detail-->
+    <string name="sensorName">Sensor name</string>
+    <string name="sensorId">Sensor ID</string>
+    <string name="location">Location</string>
+    <string name="type">Type</string>
+    <string name="sn">SN</string>
+    <string name="status">Status</string>
+    <string name="buttonName">Show Map</string>
+
+</resources>

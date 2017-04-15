@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DoanTN</string>
+    <string name="setting">action_settings</string>
+    <string name="android">Sensor</string>
+    <string name="ios">Map</string>
+    <string name="php">Option</string>
+
+    <!--sensor detail-->
+    <string name="buttonName">Show Map</string>
+</resources>
